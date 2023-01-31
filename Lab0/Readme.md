@@ -572,20 +572,32 @@ You should be able to see both of your nodes connected through the topic.
 
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber
-[This is the link to the folder of my ROS package that contains a publisher and a subscriber](../mobilehri_ws/)
+
+[This is the link to the folder of my ROS package that contains a publisher and a subscriber](mobilehri_ws/)
 
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+
 - What is the Construct website?
+
 The Construct website is a platform to learn ROS-based advanced robotics online without wasting time on software setup
+
 - What is rclpy?
+
 rclpy is ROS Client Library for the Python language
+
 - What is the key differences between ROS and ROS2?
+
 ROS2 uses DDS (Data Distribution Service) for communication, while ROS uses custom communication libraries. ROS2 also improves quality of service for real-time communication, and provides stronger security features.
+
 - Where has ROS2 been used?
+
 ROS2 has been used in various robotic systems, including industrial robots, autonomous vehicles, medical robots, etc.
+
 - How do robots communicate through ROS?
+
 Robot can communicate using messages and topics. A node(Publisher) sends message on a specific topic, and the other node(Suscriber) suscribe to the same topic to receive message
 
 
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+
 I think the bootcamp is easy to understand and follow, the only issue I got was that I waited for a while to create a new rosject while too many people were creating rosjects simultaneously.
