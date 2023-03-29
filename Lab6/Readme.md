@@ -99,7 +99,7 @@ ros2 launch ydlidar_ros2_driver ydlidar_launch.py
 To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click 3D in the left panel.
 
 ### Again, deliverables for this lab are: 
-We finished connected all the wires for this robot, but we got USB interface problem on our Odrive, so we cannot move our robot now.
+We finished connecting all the wires for this robot, but we got USB interface problem on our Odrive, so we cannot move our robot now.
 We asked the TA, and he said we can upload the video after spring break. We will finish it once we solve the hardware problem.
 
 0. Photos of your robot prototype
