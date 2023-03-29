@@ -102,6 +102,8 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 We finished connecting all the wires for this robot, but we got USB interface problem on our Odrive, so we cannot move our robot now.
 We asked the TA, and he said we can upload the video after spring break. We will finish it once we solve the hardware problem.
 
+<img width="650" alt="Odrive Interface Problem" src="https://user-images.githubusercontent.com/112031955/228399014-35484025-a3f0-4f98-aa0f-683a44c9675f.png">
+
 0. Photos of your robot prototype
 1. A video of your robot moving around
 2. A sketch of a series movements based on your final project
