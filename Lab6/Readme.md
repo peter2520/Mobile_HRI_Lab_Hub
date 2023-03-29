@@ -1,6 +1,8 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
+
 Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
