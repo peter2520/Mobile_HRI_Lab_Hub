@@ -3,6 +3,7 @@
 
 **List the names and NetID for your partners here.**
 
+Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362
 
 In this lab, let's try out some moves with our robots and make them talk!
 
