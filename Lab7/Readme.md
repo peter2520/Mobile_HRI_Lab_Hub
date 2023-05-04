@@ -120,6 +120,10 @@ Based on your final project proposal, sketch out a simple interaction scenario w
 
 Be mindful of the others around you. Be safe.
 
+You can review all the robot commands, interactions and our reflection through the google doc below!
+
+https://docs.google.com/document/d/1uyyh6jB2OZ_J3br4UbRV4Xkh6IJwJM0roEygCFeIdJA/edit?usp=sharing
+
 ### Again, the deliverables for this lab are:
 
 
