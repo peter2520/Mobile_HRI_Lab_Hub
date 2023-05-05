@@ -107,11 +107,11 @@ We asked the TA, and he said we can upload the video after spring break. We will
 0. Photos of your robot prototype
 <!-- ![prototype](https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg | width=100) -->
 
-<img src="[prototype](https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg)" width="100">
+<img src="https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg" width="100">
 
 <!-- ![prototype1](https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg | width=100) -->
 
-<img src="[prototype1](https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg)" width="100">
+<img src="https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg" width="100">
 
 1. A video of your robot moving around
 
