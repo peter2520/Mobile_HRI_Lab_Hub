@@ -105,17 +105,14 @@ We asked the TA, and he said we can upload the video after spring break. We will
 <img width="650" alt="Odrive Interface Problem" src="https://user-images.githubusercontent.com/112031955/228399014-35484025-a3f0-4f98-aa0f-683a44c9675f.png">
 
 0. Photos of your robot prototype
-<!-- ![prototype](https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg | width=100) -->
 
-<img src="https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/112031955/236503434-1dcba084-0ab7-422d-b5b4-063940e4c280.jpeg" width="500">
 
-<!-- ![prototype1](https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg | width=100) -->
-
-<img src="https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/112031955/236503458-00a6ae48-c09b-4f03-830f-1817dbac4f0a.jpeg" width="500">
 
 1. A video of your robot moving around
 
-
+https://user-images.githubusercontent.com/112031955/236505838-fb6bf9d2-16de-4e49-a54d-ebaf13609030.mp4
 
 2. A sketch of a series movements based on your final project
 ![IMG_E0004DEA47CF-1](https://user-images.githubusercontent.com/112031955/228397945-4ee79d70-2932-4536-a2d3-663b88bb0a38.jpeg)
@@ -125,4 +122,7 @@ We asked the TA, and he said we can upload the video after spring break. We will
 https://user-images.githubusercontent.com/112031955/236503506-2f64ada7-0281-4b74-a294-9cca4ea77b0b.mp4
 
 4. Reflect upon your design, what would you do differently?
+
+The current design is just a prototype, we would redesign the appearance of this robot.
+
 
