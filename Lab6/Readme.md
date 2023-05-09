@@ -123,6 +123,6 @@ https://user-images.githubusercontent.com/112031955/236503506-2f64ada7-0281-4b74
 
 4. Reflect upon your design, what would you do differently?
 
-The current design is just a prototype, we would redesign the appearance of this robot.
+First, the current design is just a prototype using cardboard, we would redesign the appearance of this robot to make it more approachable and attractive. Second, the movement of the robot is a little bit aggressive. We should think about how the users can interact with the robot easily by changine the moving behavior of the robots or adding more instructions for users. 
 
 
